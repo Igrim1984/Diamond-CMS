@@ -217,3 +217,65 @@ aside h3{
 .monthly-stats .number{
     font-size: 1.4rem;
 }
+
+/* <----------------------------- Posts --------------------------> */
+
+.info-top h1{
+    font-size: 4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.posts h3{
+    font-size: 2.4rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.featured-posts .btn{
+    font-size: 1.6rem;
+}
+
+.featured-posts .card-title{
+    font-size: 1.6rem;
+}
+.featured-posts .card-body{
+    font-size: 1.4rem;
+}
+
+.active-users .card-img {
+    overflow: hidden;
+}
+
+.active-users img{
+    height: 180px;
+    object-fit: cover;
+    opacity: .6;
+    transition: opacity .3s, transform .3s;
+}
+.active-users img:hover{
+
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.active-users .card-body, .active-users .btn{
+    font-size: 1.5rem;
+}
+
+.find-post, .find-post input, .find-post .btn, .find-post .dropdown-item {
+    font-size: 1.6rem;
+}
+
+.post-modal h3{
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.post-modal p, .post-modal .btn {
+    font-size: 1.3rem;
+}
+
+.post-modal, .modal-body .btn{
+    text-transform: uppercase;
+}
