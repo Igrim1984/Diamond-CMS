@@ -199,3 +199,21 @@ aside h3{
 .users-gender p {
     font-size: 3rem;
 }
+
+.monthly-stats option{
+
+    color: black;
+}
+
+.monthly-stats .form-select, .monthly-stats option{
+    font-size: 1.6rem;
+}
+
+.monthly-stats .info{
+    font-size: 1.8rem;
+}
+
+
+.monthly-stats .number{
+    font-size: 1.4rem;
+}
