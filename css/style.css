@@ -279,3 +279,32 @@ aside h3{
 .post-modal, .modal-body .btn{
     text-transform: uppercase;
 }
+
+.users-list li{
+    padding: 0.5em 1em;
+    margin: 0.2em 0;
+    font-size: 2rem;
+}
+.users-list .btn{
+    font-size: 1.6rem;
+}
+.users-list .list-group-item{
+   border: 1px solid #fff;
+
+}
+
+.user-search label, .user-search input, .user-search select {
+    font-size: 1.6rem;
+}
+
+,.user-search .btn{
+    font-size: 2rem;
+}
+
+.modal-content h3.card-title{
+    font-size: 2.6rem;
+}
+
+.modal-content label, .modal-content .neswletter, .modal-content select, .modal-content input, .modal-content .btn{
+    font-size: 1.6rem;
+}
